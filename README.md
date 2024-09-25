@@ -1,1 +1,2 @@
-# baym7.github.io
+# Bayard Meiser
+## Experienced data scientist
